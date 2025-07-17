@@ -6,7 +6,7 @@ Hi! I'm Avinash,a Computer Science (CSE) B.Tech student passionate about learnin
 
 | Cycle No. | Title                    | Status       | Link                                                |
 |-----------|--------------------------|--------------|-----------------------------------------------------|
-| 1         | Clean Data Champions     | 🔄On Going | [Cycle 1](./Cycle_1_Clean_Data_Champions/)            |
+| 1         | Clean Data Champions     | 🔄On Going   | [Cycle 1](./Cycle_1_Clean_Data_Champions/)          |
 | 2         | [To Be Announced]        | ⏳ Upcoming  | [Cycle 2](./Cycle_2_[Coming_Soo/)                   |
 | 3         | [To Be Announced]        | ⏳ Upcoming  | [Cycle 3](./Cycle_3_[Coming_Soon]/)                 |
 | 4         | [To Be Announced]        | ⏳ Upcoming  | [Cycle 4](./Cycle_4_[Coming_Soon]/)                 |
@@ -16,13 +16,13 @@ Hi! I'm Avinash,a Computer Science (CSE) B.Tech student passionate about learnin
 
 ## ✅ Progress Tracker
 
-| Day | Task Name               | Status     |
-|-----|-------------------------|------------|
-| 1   | Data cleaning,handling missing values,outliers,data visuvalization.     | ✅ Completed |
+| Day | Task Name                                                                                    | Status       |
+|-----|----------------------------------------------------------------------------------------------|--------------|
+| 1   | Data cleaning,handling missing values,outliers,data visuvalization.                          | ✅ Completed |
 | 2   | Scaling & Normalization, handling categorial variables,Mutual information,Linear Reagerssion,
-        regularization methods,Mse,Mae and R square.                            | ✅ Completed |
-| 3   | Coming Soon ....                                                        | ✅ Completed |
-| 4   | Coming Soon ....                                                        | ✅ Completed |
-| 5   | Coming Soon ....                                                        | ✅ Completed |
+        regularization methods,Mse,Mae and R square.                                                 | ✅ Completed |
+| 3   | Coming Soon ....                                                                             | ⏳ Upcoming  |
+| 4   | Coming Soon ....                                                                             | ⏳ Upcoming  |
+| 5   | Coming Soon ....                                                                             | ⏳ Upcoming  |
 
 
