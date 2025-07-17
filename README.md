@@ -19,8 +19,8 @@ Hi! I'm Avinash,a Computer Science (CSE) B.Tech student passionate about learnin
 | Day | Task Name                                                                                    | Status       |
 |-----|----------------------------------------------------------------------------------------------|--------------|
 | 1   | Data cleaning,handling missing values,outliers,data visuvalization.                          | ✅ Completed |
-| 2   | Scaling & Normalization, handling categorial variables,Mutual information,Linear Reagerssion,
-        regularization methods,Mse,Mae and R square.                                                 | ✅ Completed |
+| 2   | Scaling & Normalization, handling categorial variables,Mutual information,Linear Reagerssion,| ✅ Completed |
+        regularization methods,Mse,Mae and R square.                                                
 | 3   | Coming Soon ....                                                                             | ⏳ Upcoming  |
 | 4   | Coming Soon ....                                                                             | ⏳ Upcoming  |
 | 5   | Coming Soon ....                                                                             | ⏳ Upcoming  |
