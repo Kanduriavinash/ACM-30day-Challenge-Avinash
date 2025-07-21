@@ -7,7 +7,7 @@ Hi! I'm Avinash,a Computer Science (CSE) B.Tech student passionate about learnin
 | Cycle No. | Title                    | Status       | Link                                                |
 |-----------|--------------------------|--------------|-----------------------------------------------------|
 | 1         | Clean Data Champions     | ✅ Completed | [Cycle 1](./Cycle-01_Clean_Data_Champions/)         |
-| 2         | [To Be Announced]        | 🔄On Going   | [Cycle 2](./Cycle_2_[Coming_Soo/)                   |
+| 2         | [To Be Announced]        | 🔄On Going   | [Cycle 2](./Cycle-02/)                              |
 | 3         | [To Be Announced]        | ⏳ Upcoming  | [Cycle 3](./Cycle_3_[Coming_Soon]/)                 |
 | 4         | [To Be Announced]        | ⏳ Upcoming  | [Cycle 4](./Cycle_4_[Coming_Soon]/)                 |
 
